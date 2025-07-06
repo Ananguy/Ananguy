@@ -1,3 +1,5 @@
+ *About Me*
+ 
 👋 Hi, I'm Anan M Binoj – a final-year Computer Science Engineering student at KTU, passionate about building smart and creative tech solutions.
 
 🚀 I’m currently diving deep into AI/ML and exploring modern frontend development using React and Flutter.
